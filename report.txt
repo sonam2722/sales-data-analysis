@@ -1,0 +1,10 @@
+Sales Data Analysis using Python + Power BI
+
+Problem Statement:
+Analyze sales, profit, quantity, and regional performance to identify business trends.
+
+Tools Used:
+Python, Pandas, Matplotlib, Excel, Power BI
+
+Conclusion:
+Region-wise analysis helps identify top-performing areas and profitable products.
